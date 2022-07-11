@@ -5,3 +5,7 @@ const multiply = 2 * 2
 
 
 const math = 2 - 3 * 3 / 4
+const name = 'eder'
+const hobby = 'working out'
+const vacation = 'europe'
+const pi = 3.14
