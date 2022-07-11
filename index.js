@@ -13,3 +13,4 @@ const even =  2 % 2
 const num = 2 
 const word = 'run'
 const isLifting = true
+const eat = 'healthy'
