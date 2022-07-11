@@ -11,3 +11,4 @@ const vacation = 'europe'
 const pi = 3.14
 const even =  2 % 2
 const num = 2 
+const word = 'run'
